@@ -1,0 +1,59 @@
+01-03-2021 02:16:09 Creating wallet for Alice
+01-03-2021 02:16:09 Creating wallet for Bob
+01-03-2021 02:16:09 Creating wallet for Michel
+01-03-2021 02:16:09 Creating wallet Coinbase
+01-03-2021 02:16:09 Send 1000 bitcoin to wallet of Alice
+01-03-2021 02:16:09 Send 1000 bitcoin to wallet of Bob
+01-03-2021 02:16:09 Send 1000 bitcoin to wallet of Michel
+01-03-2021 02:16:09 Creating and Mining Genesis block
+01-03-2021 02:16:09 Alice is trying to send funds 45.0 to Bob
+01-03-2021 02:16:09 Alice has sent 45.0 to Bob
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Alice balance is: 955.0
+01-03-2021 02:16:09 Bob balance is: 1045.0
+01-03-2021 02:16:09 Alice is trying to send funds 41.0 to Bob
+01-03-2021 02:16:09 Alice has sent 41.0 to Bob
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Alice balance is: 914.0
+01-03-2021 02:16:09 Bob balance is: 1086.0
+01-03-2021 02:16:09 Alice is trying to send funds 31.0 to Michel
+01-03-2021 02:16:09 Alice has sent 31.0 to Michel
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Alice balance is: 883.0
+01-03-2021 02:16:09 Michel balance is: 1031.0
+01-03-2021 02:16:09 Bob is trying to send funds 65.0 to Alice
+01-03-2021 02:16:09 Bob has sent 65.0 to Alice
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Bob balance is: 1021.0
+01-03-2021 02:16:09 Alice balance is: 948.0
+01-03-2021 02:16:09 Bob is trying to send funds 14.0 to Alice
+01-03-2021 02:16:09 Bob has sent 14.0 to Alice
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Bob balance is: 1007.0
+01-03-2021 02:16:09 Alice balance is: 962.0
+01-03-2021 02:16:09 Bob is trying to send funds 11.0 to Michel
+01-03-2021 02:16:09 Bob has sent 11.0 to Michel
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Bob balance is: 996.0
+01-03-2021 02:16:09 Michel balance is: 1042.0
+01-03-2021 02:16:09 Michel is trying to send funds 85.0 to Bob
+01-03-2021 02:16:09 Michel has sent 85.0 to Bob
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Michel balance is: 957.0
+01-03-2021 02:16:09 Bob balance is: 1081.0
+01-03-2021 02:16:09 Michel is trying to send funds 91.0 to Bob
+01-03-2021 02:16:09 Michel has sent 91.0 to Bob
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Michel balance is: 866.0
+01-03-2021 02:16:09 Bob balance is: 1172.0
+01-03-2021 02:16:09 Michel is trying to send funds 61.0 to Alice
+01-03-2021 02:16:09 Michel has sent 61.0 to Alice
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Michel balance is: 805.0
+01-03-2021 02:16:09 Alice balance is: 1023.0
+01-03-2021 02:16:09 Alice is trying to send funds 1556.0 to Bob
+01-03-2021 02:16:09 Aliceis trying to send more funds 1556.0 that it has.
+01-03-2021 02:16:09 After sending funds
+01-03-2021 02:16:09 Alice balance is: 1023.0
+01-03-2021 02:16:09 Bob balance is: 1172.0
+01-03-2021 02:16:09 Blockchain is valid
